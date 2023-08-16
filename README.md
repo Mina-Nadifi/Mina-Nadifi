@@ -6,11 +6,11 @@
 
   
   
-  [![Harry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minarnadifi&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Harry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mina-Nadifi&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minarnadifi&show_icons=true&theme=onedark)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mina-Nadifi&show_icons=true&theme=onedark)
   
  
 </div>
