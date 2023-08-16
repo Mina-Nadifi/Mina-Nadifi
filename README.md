@@ -1,3 +1,15 @@
+<style>
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
+}
+.heading2 {
+    color: blue;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
 <h1 align="center">Hi 👋, I'm Mina Nadifi</h1>
 
 <div align="center">
