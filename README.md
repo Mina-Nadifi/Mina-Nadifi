@@ -12,10 +12,10 @@
 
 > Learning how to code is a never ending journey
 
-[<img align="left" alt="freeCodeCamp" width="56px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />][freecodecamp]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][shecodes]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][hyperskill]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][googledev]
+[<center ><img  alt="Google for Developers"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/googledev.png" />][googledev]
+[<img alt="Hyperskill: Study plan" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/hyperskill.png" />][hyperskill]
+[<img alt="SheCodes"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/shecodes.png" />][shecodes]
+[<img alt="freeCodeCamp" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/freecodecamp.png" /></center>][freecodecamp]
 <br /><br /><br /><br /><br />
 
 # Social Media for coders :
