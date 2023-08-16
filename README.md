@@ -12,6 +12,8 @@
 
 > Learning how to code is a never ending journey
 
+<br /><br />
+
 [<p align="center"><img  />][googledev]
 [<kbd><img  alt="Google for Developers"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/googledev.png" /></kbd>][googledev]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<kbd><img alt="Hyperskill: Study plan" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/hyperskill.png" /></kbd>][hyperskill]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
