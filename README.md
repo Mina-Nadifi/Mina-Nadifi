@@ -12,7 +12,7 @@
 
 > Learning how to code is a never ending journey
 
-[<center ><img  alt="Google for Developers"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/googledev.png" />][googledev]
+[<center><img  alt="Google for Developers"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/googledev.png" />][googledev]
 [<img alt="Hyperskill: Study plan" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/hyperskill.png" />][hyperskill]
 [<img alt="SheCodes"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/shecodes.png" />][shecodes]
 [<img alt="freeCodeCamp" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/freecodecamp.png" /></center>][freecodecamp]
