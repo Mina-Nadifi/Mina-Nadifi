@@ -14,20 +14,18 @@
 
 <br /><br />
 
-[![Google for Developers](https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/googledev.png)](https://g.dev/MinaRNadifi)
-[![Google for Developers](https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/googledev.png)](https://g.dev/MinaRNadifi)
 [<p align="center"><img  />][googledev]
-[<img  alt="Google for Developers"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="86px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/googledev.png" />][googledev]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<kbd><img  alt="Google for Developers"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/googledev.png" /></kbd>][googledev]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<kbd><img alt="Hyperskill: Study plan" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/hyperskill.png" /></kbd>][hyperskill]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="codecademy"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="86px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/codecademy.png" />][codecademy]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<kbd><img alt="SheCodes"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="96px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/shecodes.png" /></kbd>][shecodes]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<kbd><img alt="codecademy"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/codecademy.png" /></kbd>][codecademy]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<kbd><img alt="SheCodes"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/shecodes.png" /></kbd>][shecodes]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<kbd><img alt="freeCodeCamp" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/freecodecamp.png" /></kbd></p>][freecodecamp]
 <br /><br /><br /><br /><br />
 
 <br />
 <br />
 
-My Stats :
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Project Based Studying.
 - 🌱 I’m currently learning Kotlin.
