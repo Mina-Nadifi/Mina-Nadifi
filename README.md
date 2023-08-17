@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Here are some ideas to get you started:
+My Stats:
 
 - 🔭 I’m currently working on Project Based Studying.
 - 🌱 I’m currently learning Kotlin.
