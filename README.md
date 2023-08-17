@@ -19,9 +19,7 @@
 [<kbd><img loading="lazy" alt="SheCodes"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/shecodes.png" /></kbd>][shecodes]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<kbd><img loading="lazy" alt="freeCodeCamp" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/freecodecamp.png" /></kbd></p>][freecodecamp]<br /><br />
 
-### My Stats:
-
-#
+# My Stats:
 
 - 🔭 I’m currently working on Project Based Studying.
 - 🌱 I’m currently learning Kotlin.
@@ -52,3 +50,11 @@
 [portfolio]: https://
 [github]: https://github.com/Mina-Nadifi
 [def]: README.md
+
+# Being Social Digitally
+
+<p align="center" dir="auto"><a target="_blank" rel="me" href=""><img style="max-width: 100%;"></a>
+
+<a href="https://stackoverflow.com/users/22393472/mina-r-nadifi" rel="me"><kbd><img alt="stackoverflow" width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/stackoverflow.png" style="max-width: 100%;"></kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Minarnacc" rel="me"><kbd><img alt="twitter" width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/x.png" style="max-width: 100%;"></kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mina-r-nadifi-5a97ba272" rel="me"><kbd><img alt="linkedin" width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/linkedin.png" style="max-width: 100%;"></kbd></a></p>
