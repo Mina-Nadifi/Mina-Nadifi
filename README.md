@@ -4,8 +4,6 @@
 
 [![Harry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mina-Nadifi&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mina-Nadifi&show_icons=true&theme=onedark)
-
 </div>
 
 # My Languages learning sources :
@@ -19,13 +17,11 @@
 [<kbd><img loading="lazy" alt="Hyperskill: Study plan" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/hyperskill.png" /></kbd>][hyperskill]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<kbd><img loading="lazy" alt="codecademy"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/codecademy.png" /></kbd>][codecademy]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<kbd><img loading="lazy" alt="SheCodes"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/shecodes.png" /></kbd>][shecodes]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<kbd><img loading="lazy" alt="freeCodeCamp" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/freecodecamp.png" /></kbd></p>][freecodecamp]
-<br /><br /><br /><br /><br />
+[<kbd><img loading="lazy" alt="freeCodeCamp" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/freecodecamp.png" /></kbd></p>][freecodecamp]<br /><br />
 
-<br />
-<br />
+### My Stats:
 
-My Stats:
+#
 
 - 🔭 I’m currently working on Project Based Studying.
 - 🌱 I’m currently learning Kotlin.
@@ -35,7 +31,15 @@ My Stats:
 - 📫 How to reach me: Telegram : @toshining
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: There is always more on that Story
-  -->
+
+#
+
+  <div align="center">
+<br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mina-Nadifi&show_icons=true&theme=onedark)
+
+  </div>
 
 [freecodecamp]: https://www.freecodecamp.org/Mina-Nadifi
 [shecodes]: https://www.shecodes.io/graduates/74197-mina-r-nadifi/
