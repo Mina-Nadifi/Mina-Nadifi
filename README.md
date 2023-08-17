@@ -56,5 +56,5 @@
 <p align="center" dir="auto"><a target="_blank" rel="nofollow me" class="Link--primary" href=""><img style="max-width: 100%;"></a>
 
 <a href="https://stackoverflow.com/users/22393472/mina-r-nadifi" rel="nofollow me" class="Link--primary"><kbd><img alt="stackoverflow" width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/stackoverflow.png" style="max-width: 100%;"></kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Minarnacc" rel="nofollow me" class="Link--primary"><kbd><img alt="twitter" width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/x.png" style="max-width: 100%;"></kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Minarnacc" rel="nofollow me" class="Link--primary"><kbd><img alt="twitter" width="56px" height="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/x.png" style="max-width: 100%;"></kbd></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mina-r-nadifi-5a97ba272" rel="nofollow me" class="Link--primary"><kbd><img alt="linkedin" width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/linkedin.png" style="max-width: 100%;"></kbd></a></p>
