@@ -6,7 +6,7 @@
 
 </div>
 
-# My Languages learning sources :
+## My Languages learning sources :
 
 > Learning how to code is a never ending journey
 
@@ -19,7 +19,7 @@
 [<kbd><img loading="lazy" alt="SheCodes"  style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/shecodes.png" /></kbd>][shecodes]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<kbd><img loading="lazy" alt="freeCodeCamp" style="margin-right:15px; margin-left:15px; border-radius:20px; " width="56px" src="https://raw.githubusercontent.com/Mina-Nadifi/Mina-Nadifi/main/Img/freecodecamp.png" /></kbd></p>][freecodecamp]<br /><br />
 
-# My Stats:
+## My Stats:
 
 - 🔭 I’m currently working on Project Based Studying.
 - 🌱 I’m currently learning Kotlin.
@@ -51,7 +51,7 @@
 [github]: https://github.com/Mina-Nadifi
 [def]: README.md
 
-# Being Social Digitally
+## Being Social Digitally
 
 <p align="center" dir="auto"><a target="_blank" rel="nofollow me" class="Link--primary" href=""><img style="max-width: 100%;"></a>
 
