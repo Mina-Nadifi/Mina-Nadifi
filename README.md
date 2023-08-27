@@ -22,7 +22,7 @@
 ## My Stats:
 
 - 🔭 I’m currently working on Project Based Studying.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m interested in learning Kotlin, Javascript, Rust + Bash Scriptimg language.
 - 👯 I’m looking to collaborate on developing OOS apps mostly Kotlin & Rust.
 - 🤔 I’m looking for help with Business Planning na Career Change.
 - 💬 I like a good conversation about Life and Happiness.
